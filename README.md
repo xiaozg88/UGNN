@@ -454,19 +454,6 @@ Set `--baseseed` to a fixed value. Each run uses `baseseed + {0,1,2,3,4}` for th
 
 ---
 
-## Citation
-
-If you find this work useful, please cite our paper:
-
-```bibtex
-@article{xiao2026ugnn,
-  title={UGNN: An Uncertainty-Aware Graph Neural Network with Label-Leakage-Free Structural Priors for Node Classification on Heterophilous Graphs},
-  author={Xiao, Zhiguo and Liu, Junli and Cao, Xinyao},
-  journal={Knowledge-Based Systems},
-  year={2026},
-  publisher={Elsevier}
-}
-```
 
 ---
 
